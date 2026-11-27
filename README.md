@@ -55,6 +55,8 @@ These findings represent statistical associations and should not be interpreted 
 - here
 - ggplot2
 
+- 
+## Project Structure
 COVID_Vaccine_Uptake_Somaliland/
 │
 ├── COVID_Vaccine_Uptake_Somaliland.Rproj
