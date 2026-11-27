@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes COVID-19 vaccine uptake and its associated factors among the study participants in Somaliland. The analysis uses survey data to describe participant characteristics, examine factors associated with vaccine uptake, and identify independent predictors using multivariable logistic regression.
+This project analyzes COVID-19 vaccine uptake and its associated factors among study participants in Somaliland. The analysis uses survey data to describe participant characteristics, examine factors associated with vaccine uptake, and identify independent predictors using multivariable logistic regression.
 
 ## Study Objectives
 
@@ -10,14 +10,24 @@ This project analyzes COVID-19 vaccine uptake and its associated factors among t
 2. To assess the association between selected sociodemographic, health-related, and perception-related characteristics and vaccine uptake.
 3. To identify factors independently associated with COVID-19 vaccine uptake using multivariable logistic regression.
 
+## Study Period and Data Collection
+
+The dataset used in this project was obtained from a cross-sectional study conducted in Somaliland.
+
+- **Study design:** Cross-sectional study
+- **Data collection period:** 18 December 2021 – 31 January 2022
+- **Study location:** Somaliland
+- **Data collection methods:** Online and paper-based questionnaires
+
 ## Dataset
 
 - Total observations: 704
 - Total variables: 20
 - Outcome variable: COVID-19 vaccine uptake
-- Outcome distribution:
-  - No: 445 (63.21%)
-  - Yes: 259 (36.79%)
+
+**Outcome distribution:**
+- No: 445 (63.21%)
+- Yes: 259 (36.79%)
 
 ## Methods of Analysis
 
@@ -55,7 +65,6 @@ These findings represent statistical associations and should not be interpreted 
 - here
 - ggplot2
 
-- 
 ## Project Structure
 
 ```text
@@ -93,7 +102,6 @@ COVID_Vaccine_Uptake_Somaliland/
     ├── 08_results_presentation.R
     ├── 09_model_diagnostics.R
     └── 10_final_project_review.R
-```
 ```
 
 ## Note
