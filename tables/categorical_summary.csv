@@ -1,0 +1,58 @@
+variable,category,frequency,percentage
+age_group,18-24,297,42.19
+age_group,25-34,240,34.09
+age_group,35-44,77,10.94
+age_group,45-54,49,6.96
+age_group,More than 55,41,5.82
+covid_vaccine_uptake,No,445,63.21
+covid_vaccine_uptake,Yes,259,36.79
+educational_level,No education,55,7.81
+educational_level,Postgraduate,201,28.55
+educational_level,Primary,28,3.98
+educational_level,Secondary,63,8.95
+educational_level,Undergraduate,357,50.71
+employment_status,No,285,40.48
+employment_status,Yes,419,59.52
+healthcare_worker_status,No,636,90.34
+healthcare_worker_status,Yes,68,9.66
+marital_status,Divorced,20,2.84
+marital_status,Married,234,33.24
+marital_status,Single,427,60.65
+marital_status,Widowed,23,3.27
+perceived_covid19_threat,Agree,241,34.23
+perceived_covid19_threat,Disagree,129,18.32
+perceived_covid19_threat,Strongly agree,278,39.49
+perceived_covid19_threat,Strongly disagree,56,7.95
+perceived_vaccine_safety,Agree,232,32.95
+perceived_vaccine_safety,Disagree,207,29.4
+perceived_vaccine_safety,Strongly agree,165,23.44
+perceived_vaccine_safety,Strongly disagree,100,14.2
+perceived_vulnerability_over_45,No,242,34.38
+perceived_vulnerability_over_45,Yes,462,65.62
+preexisting_health_condition,Health condition,106,15.06
+preexisting_health_condition,No health condition,598,84.94
+previous_covid19_test_result,Negative,656,93.18
+previous_covid19_test_result,Positive,33,4.69
+previous_covid19_test_result,Result not received,15,2.13
+previous_covid19_testing,No,509,72.3
+previous_covid19_testing,Yes,195,27.7
+region_of_residence,Awdal,10,1.42
+region_of_residence,Maroodi Jeeh,642,91.19
+region_of_residence,Sahil,17,2.41
+region_of_residence,Sanaag,4,0.57
+region_of_residence,Sool,4,0.57
+region_of_residence,Togdheer,27,3.84
+sex,Female,279,39.63
+sex,Male,425,60.37
+social_media_use_duration,2-4 hours,292,41.48
+social_media_use_duration,5-7 hours,107,15.2
+social_media_use_duration,Less than 2 hours,244,34.66
+social_media_use_duration,More than 7 hours,61,8.66
+survey_language,English,255,36.22
+survey_language,Somali,449,63.78
+survey_mode,Online Survey,389,55.26
+survey_mode,Paper Survey,315,44.74
+vaccination_willingness,No,551,78.27
+vaccination_willingness,Yes,153,21.73
+vaccine_availability,No,165,23.44
+vaccine_availability,Yes,539,76.56

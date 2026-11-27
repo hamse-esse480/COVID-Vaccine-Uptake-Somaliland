@@ -1,0 +1,15 @@
+variable,test,chi_square,df,p_value,result
+sex,Pearson Chi-square,1.4915771954044137,1,0.22197,Not significant
+age_group,Pearson Chi-square,30.299388908542102,4,0,Significant
+educational_level,Pearson Chi-square,24.02224217602579,4,8e-5,Significant
+marital_status,Pearson Chi-square,15.755699861769468,3,0.00127,Significant
+region_of_residence,Fisher's Exact Test,10.49074140233204,5,0.05478,Not significant
+employment_status,Pearson Chi-square,16.94139042243907,1,4e-5,Significant
+healthcare_worker_status,Pearson Chi-square,10.051248211813878,1,0.00152,Significant
+preexisting_health_condition,Pearson Chi-square,3.870885316107499,1,0.04913,Significant
+vaccine_availability,Pearson Chi-square,19.12479138685972,1,1e-5,Significant
+perceived_vulnerability_over_45,Pearson Chi-square,1.3386466034941156,1,0.24727,Not significant
+previous_covid19_testing,Pearson Chi-square,29.80452311204746,1,0,Significant
+perceived_covid19_threat,Pearson Chi-square,23.81828886491072,3,3e-5,Significant
+perceived_vaccine_safety,Pearson Chi-square,8.055218079332496,3,0.04488,Significant
+social_media_use_duration,Pearson Chi-square,6.746242247264865,3,0.08044,Not significant
