@@ -57,10 +57,13 @@ These findings represent statistical associations and should not be interpreted 
 
 - 
 ## Project Structure
+
+```text
 COVID_Vaccine_Uptake_Somaliland/
 │
 ├── COVID_Vaccine_Uptake_Somaliland.Rproj
 ├── README.md
+│
 ├── Documentation/
 │   ├── Dataset_Codebook
 │   └── Project_Summary
@@ -90,6 +93,7 @@ COVID_Vaccine_Uptake_Somaliland/
     ├── 08_results_presentation.R
     ├── 09_model_diagnostics.R
     └── 10_final_project_review.R
+```
 ```
 
 ## Note
