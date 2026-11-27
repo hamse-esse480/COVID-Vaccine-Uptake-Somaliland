@@ -55,24 +55,27 @@ These findings represent statistical associations and should not be interpreted 
 - here
 - ggplot2
 
-## Project Structure
-
-```text
 COVID_Vaccine_Uptake_Somaliland/
 │
 ├── COVID_Vaccine_Uptake_Somaliland.Rproj
 ├── README.md
+├── Documentation/
+│   ├── Dataset_Codebook
+│   └── Project_Summary
 │
-├── Data/
-│   ├── Raw/
-│   └── Cleaned/
+├── figures/
+│   └── Final_Forest_Plot
 │
-├── Outputs/
-│   ├── figures/
-│   ├── tables/
-│   ├── models/
-│   ├── reports/
-│   └── final_results/
+├── final_results/
+│   ├── Table1_Participant_Characteristics
+│   ├── Table2_Bivariate_Analysis
+│   └── Table3_Multivariable_Logistic_Regression
+│
+├── reports/
+│   └── Final_Analysis_Report
+│
+├── tables/
+│   └── Final_Analysis_Tables
 │
 └── R scripts/
     ├── 01_import_data.R
@@ -83,14 +86,9 @@ COVID_Vaccine_Uptake_Somaliland/
     ├── 06_bivariate_analysis.R
     ├── 07_multivariable_analysis.R
     ├── 08_results_presentation.R
-    └── 09_final_project_review.R
+    ├── 09_model_diagnostics.R
+    └── 10_final_project_review.R
 ```
-
-## Author
-
-**Hamse Esse Jama**
-
-Public Health | Epidemiology | Health Research
 
 ## Note
 
